@@ -1,4 +1,4 @@
-#include <studio.h>
+#include <stdio.h>
 #include <locale.h>
 #define D 2.54
 #define P 2.32166
